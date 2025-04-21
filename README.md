@@ -25,3 +25,8 @@ This project presents a comprehensive analysis of Ola ride data using Power BI. 
 📁 Project File
 Ola_Analayis.pbix – Complete Power BI dashboard with data model and visuals.
 
+![(ola_dashboard](https://github.com/user-attachments/assets/d9edc5dd-6eac-4d1f-846b-0f612a0d9650)
+![Screenshot (871)](https://github.com/user-attachments/assets/b45cfc18-f22d-4e1a-8022-70be03f4b2c2)
+![Screenshot (872)](https://github.com/user-attachments/assets/156361ce-9ca4-41c4-92e2-2f3ee4e5d475)
+![Screenshot (873)](https://github.com/user-attachments/assets/eafce4db-9f1e-4fe5-b9a9-ea3b3a4bebf4)
+![Screenshot (879)](https://github.com/user-attachments/assets/583665b6-473a-4dfb-9c15-15a67d8322de)
